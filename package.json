@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "http://github.com/maxme/truffle-export-abi",
   "author": "Maxime Biais",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "minimist": "^1.2.0",
+    "winston": "^3.1.0"
+  }
 }
