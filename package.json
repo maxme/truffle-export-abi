@@ -1,0 +1,9 @@
+{
+  "name": "truffle-export-abi",
+  "version": "1.0.0",
+  "description": "Export ABIs from truffle build files",
+  "main": "index.js",
+  "repository": "http://github.com/maxme/truffle-export-abi",
+  "author": "Maxime Biais",
+  "license": "MIT"
+}
